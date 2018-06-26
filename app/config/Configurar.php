@@ -11,7 +11,7 @@
 	define('RUTA_APP', dirname(dirname(__FILE__)));
 
 	//ruta url ejemplo:http://localhost/mvcphp/
-	define('RUTA_URL', 'http://localhost/mvc_videocinema/');
+	define('RUTA_URL', "http://localhost/mvc_videocinema/");
 	define('RUTA_URL2', dirname(dirname(dirname(__FILE__))));
 
 	define('NOMBRESITIO', 'VIDEOCINEMAS');
